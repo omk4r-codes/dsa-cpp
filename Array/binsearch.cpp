@@ -24,4 +24,5 @@ int main()
     cin >> n;
     cout << binSearchIndex(v, n);
     return 0;
+    
 }
